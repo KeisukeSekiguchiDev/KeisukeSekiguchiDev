@@ -6,8 +6,7 @@
 <h3 align="center">Claude Codeで生産性3倍を実現するエンジニア from Japan 🇯🇵</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/your_twitter" target="blank"><img src="https://img.shields.io/twitter/follow/your_twitter?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KeisukeSekiguchiDev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -75,12 +74,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KeisukeSekiguchiDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeisukeSekiguchiDev&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeisukeSekiguchiDev&theme=tokyonight" alt="streak stats"/>
 </div>
 
 ---
@@ -102,7 +101,7 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeisukeSekiguchiDev&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -119,27 +118,22 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude APIで作る実践的タスク見積もりツール](https://qiita.com/...)
-- [Next.js + TypeScriptで2週間でSaaSを構築した話](https://zenn.dev/...)
-- [DXプロジェクトリーダーが語る失敗しない要件定義](https://qiita.com/...)
+<!-- 準備中：技術記事を執筆予定 -->
+- Claude APIで作る実践的タスク見積もりツール（執筆予定）
+- Next.js + TypeScriptで2週間でSaaSを構築した話（執筆予定）
+- DXプロジェクトリーダーが語る失敗しない要件定義（執筆予定）
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://qiita.com/your-username)
 
 ---
 
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://your-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://qiita.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/%E4%BD%B3%E7%A5%90-%E9%96%A2%E5%8F%A3-5a3329391/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <br>
+  <p>Coming Soon: Portfolio Site, Qiita</p>
 </div>
 
 ---
