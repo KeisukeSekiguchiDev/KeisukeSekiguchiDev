@@ -129,11 +129,14 @@
 ### 📫 Connect with Me
 
 <div align="center">
+  <a href="https://qiita.com/Keisuke_Sekiguchi" target="_blank">
+    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
+  </a>
   <a href="https://www.linkedin.com/in/%E4%BD%B3%E7%A5%90-%E9%96%A2%E5%8F%A3-5a3329391/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <br>
-  <p>Coming Soon: Portfolio Site, Qiita</p>
+  <p>Coming Soon: Portfolio Site</p>
 </div>
 
 ---
