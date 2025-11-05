@@ -13,7 +13,7 @@
 
 ### 🎯 Current Focus
 
-- 🤖 **AI活用開発**: Claude Code & GitHub Copilotで開発効率3倍を実証
+- 🤖 **AI活用開発**: Claude Codeで開発効率3倍を実証
 - 🚀 **DX推進**: Excel業務のWeb化、レガシーシステムの刷新
 - 💼 **フリーランス準備**: ポートフォリオ構築、副業案件獲得に向けて活動中
 - 📚 **学習中**: React/Next.js, TypeScript, AWS, Docker
@@ -22,7 +22,7 @@
 
 ### 💼 Professional Background
 ```text
-2017-2020  電子回路設計エンジニア（4年）
+2017-2021  電子回路設計エンジニア（4年）
            ├─ ハードウェア設計・評価
            └─ 組み込みシステム開発
 
@@ -64,7 +64,6 @@
 <br>
 <p>
   <img alt="Claude" src="https://img.shields.io/badge/-Claude_Code-6B46C1?style=flat-square&logo=anthropic&logoColor=white" />
-  <img alt="GitHub Copilot" src="https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white" />
   <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
 </p>
 </details>
@@ -87,12 +86,18 @@
 ### 🚀 Featured Projects
 
 <div align="center">
-  
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Task Estimator AI** | AIを活用したタスク見積もり自動化ツール | Next.js, TypeScript, Claude API | [🔗 Demo](https://demo.link) / [📂 Repo](https://github.link) |
-| **Meeting Optimizer** | 会議効率化・議事録自動生成ツール | React, Node.js, Whisper API | [🔗 Demo](https://demo.link) / [📂 Repo](https://github.link) |
-| **DX Migration Tool** | Excel→Webアプリ変換ツール | .NET Core, React, PostgreSQL | [🔗 Demo](https://demo.link) / [📂 Repo](https://github.link) |
+
+**現在、5つのプロジェクトを開発中です**
+
+| No. | Project Name | Description |
+|-----|--------------|-------------|
+| 1 | **EstimateAI** | タスク見積もり自動化ツール |
+| 2 | **MeetingOptimizer** | 会議効率化ツール |
+| 3 | **ExpenseBot** | 経費精算自動化 |
+| 4 | **ReviewMate** | コードレビューBot |
+| 5 | **ContractHub** | 契約書管理 |
+
+📝 各プロジェクトの詳細は完成次第公開予定です
 
 </div>
 
