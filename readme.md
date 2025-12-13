@@ -78,9 +78,9 @@
 
 <div align="center">
 
-| No. | Project Name | Description | Status |
-|-----|--------------|-------------|--------|
-| 1 | **Web Calculator** | Webで動く電卓（HTML/CSS/JavaScript習得用） | 作成予定 |
+| No. | Project | Description | Tech | Links |
+|:---:|---------|-------------|------|-------|
+| 1 | **Multi-Mode Calculator** | 3モード対応電卓（標準・関数・プログラマ）<br>10種類のテーマ、履歴機能、キーボード対応 | HTML/CSS/JS | [Demo](https://keisukesekiguchidev.github.io/multi-mode-calculator/) ・ [GitHub](https://github.com/KeisukeSekiguchiDev/multi-mode-calculator) |
 
 </div>
 
