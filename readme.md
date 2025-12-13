@@ -169,6 +169,7 @@ AIツールを活用した効率的な開発と、**自動テスト・コーデ�
 | No. | Project | Description | Tech | Quality | Links |
 |:---:|---------|-------------|------|---------|-------|
 | 1 | **Multi-Mode Calculator** | 3モード対応電卓（標準・関数・プログラマ）<br>10種類のテーマ、履歴機能、キーボード対応 | HTML/CSS/JS<br>Playwright | E2E 85+テスト<br>TDD実践 | [Demo](https://keisukesekiguchidev.github.io/multi-mode-calculator/) ・ [GitHub](https://github.com/KeisukeSekiguchiDev/multi-mode-calculator) |
+| 2 | **Vanilla ToDo App** | フレームワーク無しToDoアプリ<br>状態管理・DOM操作・データ永続化の基礎学習 | HTML/CSS/JS<br>Vanilla JS | 61テスト<br>TDD実践 | [GitHub](https://github.com/KeisukeSekiguchiDev/vanilla-todo-fundamentals) |
 
 </div>
 
